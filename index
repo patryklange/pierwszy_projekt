@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        <meta charset="utf-8">
+        <title>Fizyk medyczny</title>
+    </head>
+    
+    <body>
+        <div class="main-container">
+            <nav class="site-menu">Boczne menu</nav>
+            <div class="main-content">Środek</div>
+            <aside class="sidebar">Informacje poboczne</aside>
+        </div>
+    </body>
+</html>

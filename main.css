@@ -1,0 +1,93 @@
+body {
+    background-color: cornsilk;
+}
+
+.main-container{
+    max-width: auto;
+    margin: auto;
+    background-color: cornsilk;
+}
+
+
+.site-menu,
+.main-content,
+.sidebar {
+    float: left;
+    background-color: cornsilk;
+}
+
+
+.site-menu,
+.sidebar {
+    width: 20%;  
+}
+
+.main-content {
+    width: 60%;
+}
+
+.sidebar{
+    text-align: center;    
+}
+
+.site-nav {
+background-color: LightCyan;
+list-style: none;
+padding: 0;
+width: 230px;
+border: 1px solid LightBlue;
+}
+
+.site-nav .site-nav-item {
+    border-bottom: 1px solid LightBlue;
+    padding: 20px;
+    text-align: center;
+}
+
+.site-nav .site-nav-item:last-child{
+    border-bottom: 0;
+}
+
+.site-nav .site-nav-item a{
+    color:darkgrey;
+    text-decoration: none;
+}
+
+.site-nav .site-nav-item a:hover{
+    text-decoration: underline;
+}
+
+.header h1 {
+    color: deepskyblue; 
+    text-align: center;
+}
+
+.header p {
+    background-color: deepskyblue;
+    color: white;
+    text-align: center;
+}
+
+article p {
+    text-align: justify;
+    font-family: monospace;
+}
+
+#autor {
+    width: 200px;
+    border-radius: 50%;
+}
+
+figure {
+    width: 600px;
+    margin: auto;
+    display: block;
+    
+}
+
+.sidebar p {
+    font-family: cursive;
+    background-color: floralwhite;
+    border-radius: 70%;
+}
+
